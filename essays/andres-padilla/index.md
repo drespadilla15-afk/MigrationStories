@@ -45,7 +45,13 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-This is a sample introduction. In a finished essay, this paragraph introduces readers to your family migration story:  naming who they are and their relationship to the student, why they moved, where they moved from and where they settled.It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. 
+When my grandmother Carmen Elias Gallegos crossed the border into El Paso in August
+of 1955 at the age of seven, she did so within a highly racialised immigration context. As
+historian S. Deborah Kang has shown, the 1952 McCarran-Walter Act codified anti-Mexican
+animus, stereotyping Mexican laborers as an exploitable yet unassimilable underclass (Kang
+2022, 1–4). She was uprooted from the rural environment of Chihuahua and sent to El Meats
+Ranch in Albuquerque where her family hoped for some degree of cohesion. Her entry into the
+public sphere began with a certain amount of cultural and linguistic troubles. 
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
